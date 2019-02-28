@@ -5,4 +5,4 @@ Dataset generator will generate the required images
 
 cnn_trainer and cnn_tester will train the model and test the model  
 
-
+Run it with python 3.*
